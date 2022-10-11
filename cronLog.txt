@@ -887,3 +887,6 @@ Automatically closed the connection!
 11/10/2022 21:10:01: Created the connection!
 11/10/2022 21:10:01: Inserted values into the table!
 11/10/2022 21:10:01: Automatically closed the connection!
+11/10/2022 21:15:01: Created the connection!
+11/10/2022 21:15:01: Inserted values into the table!
+11/10/2022 21:15:01: Automatically closed the connection!
