@@ -1,0 +1,865 @@
+/usr/local/bin/python3: can't open file 'main.py': [Errno 1] Operation not permitted
+/usr/local/bin/python3: can't open file 'main.py': [Errno 1] Operation not permitted
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/elliotdodd/Documents/cryptoPrices/main.py': [Errno 1] Operation not permitted
+/Library/Developer/CommandLineTools/usr/bin/python3: can't open file '/Users/elliotdodd/Documents/cryptoPrices/main.py': [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/Users/elliotdodd/Documents/cryptoPrices/main.py", line 1, in <module>
+    from requests import Request, Session
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/elliotdodd/Documents/cryptoPrices/main.py", line 1, in <module>
+    from requests import Request, Session
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/elliotdodd/Documents/cryptoPrices/main.py", line 1, in <module>
+    from requests import Request, Session
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/elliotdodd/Documents/cryptoPrices/main.py", line 1, in <module>
+    from requests import Request, Session
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/elliotdodd/Documents/cryptoPrices/main.py", line 1, in <module>
+    from requests import Request, Session
+ModuleNotFoundError: No module named 'requests'
+Created the connection!
+Inserted values into the table!
+Automatically closed the connection!
+Created the connection!
+Inserted values into the table!
+Automatically closed the connection!
+09/10/2022 19:22:01: Created the connection!
+09/10/2022 19:22:01: Inserted values into the table!
+09/10/2022 19:22:01: Automatically closed the connection!
+09/10/2022 19:23:01: Created the connection!
+09/10/2022 19:23:01: Inserted values into the table!
+09/10/2022 19:23:01: Automatically closed the connection!
+09/10/2022 19:24:01: Created the connection!
+09/10/2022 19:24:01: Inserted values into the table!
+09/10/2022 19:24:01: Automatically closed the connection!
+09/10/2022 19:25:02: Created the connection!
+09/10/2022 19:25:02: Inserted values into the table!
+09/10/2022 19:25:02: Automatically closed the connection!
+09/10/2022 19:30:01: Created the connection!
+09/10/2022 19:30:01: Inserted values into the table!
+09/10/2022 19:30:01: Automatically closed the connection!
+09/10/2022 19:35:01: Created the connection!
+09/10/2022 19:35:01: Inserted values into the table!
+09/10/2022 19:35:01: Automatically closed the connection!
+09/10/2022 19:40:01: Created the connection!
+09/10/2022 19:40:01: Inserted values into the table!
+09/10/2022 19:40:01: Automatically closed the connection!
+09/10/2022 19:53:22: Created the connection!
+09/10/2022 19:53:22: Inserted values into the table!
+09/10/2022 19:53:22: Automatically closed the connection!
+09/10/2022 19:55:00: Created the connection!
+09/10/2022 19:55:00: Inserted values into the table!
+09/10/2022 19:55:00: Automatically closed the connection!
+09/10/2022 20:00:02: Created the connection!
+09/10/2022 20:00:02: Inserted values into the table!
+09/10/2022 20:00:02: Automatically closed the connection!
+09/10/2022 20:05:01: Created the connection!
+09/10/2022 20:05:01: Inserted values into the table!
+09/10/2022 20:05:01: Automatically closed the connection!
+09/10/2022 20:10:01: Created the connection!
+09/10/2022 20:10:01: Inserted values into the table!
+09/10/2022 20:10:01: Automatically closed the connection!
+09/10/2022 20:15:01: Created the connection!
+09/10/2022 20:15:01: Inserted values into the table!
+09/10/2022 20:15:01: Automatically closed the connection!
+09/10/2022 20:20:01: Created the connection!
+09/10/2022 20:20:01: Inserted values into the table!
+09/10/2022 20:20:01: Automatically closed the connection!
+09/10/2022 20:25:01: Created the connection!
+09/10/2022 20:25:01: Inserted values into the table!
+09/10/2022 20:25:01: Automatically closed the connection!
+09/10/2022 20:30:02: Created the connection!
+09/10/2022 20:30:02: Inserted values into the table!
+09/10/2022 20:30:02: Automatically closed the connection!
+09/10/2022 20:35:01: Created the connection!
+09/10/2022 20:35:01: Inserted values into the table!
+09/10/2022 20:35:01: Automatically closed the connection!
+09/10/2022 20:40:01: Created the connection!
+09/10/2022 20:40:01: Inserted values into the table!
+09/10/2022 20:40:01: Automatically closed the connection!
+09/10/2022 20:45:01: Created the connection!
+09/10/2022 20:45:01: Inserted values into the table!
+09/10/2022 20:45:01: Automatically closed the connection!
+09/10/2022 20:50:01: Created the connection!
+09/10/2022 20:50:01: Inserted values into the table!
+09/10/2022 20:50:01: Automatically closed the connection!
+09/10/2022 20:55:02: Created the connection!
+09/10/2022 20:55:02: Inserted values into the table!
+09/10/2022 20:55:02: Automatically closed the connection!
+/bin/sh: /usr/local/bin/python3: No such file or directory
+/bin/sh: /usr/local/bin/python3: No such file or directory
+/bin/sh: /usr/local/bin/python3: No such file or directory
+/bin/sh: /opt/homebrew/python3: No such file or directory
+/bin/sh: /opt/homebrew/python3: No such file or directory
+/bin/sh: /opt/homebrew/python3: No such file or directory
+/bin/sh: /opt/homebrew/python3: No such file or directory
+/bin/sh: /opt/homebrew/python3: No such file or directory
+/bin/sh: /opt/homebrew/python3: No such file or directory
+/bin/sh: /opt/homebrew/python3: No such file or directory
+09/10/2022 21:50:01: Created the connection!
+09/10/2022 21:50:01: Inserted values into the table!
+09/10/2022 21:50:01: Automatically closed the connection!
+09/10/2022 21:55:00: Created the connection!
+09/10/2022 21:55:00: Inserted values into the table!
+09/10/2022 21:55:00: Automatically closed the connection!
+09/10/2022 22:00:00: Created the connection!
+09/10/2022 22:00:00: Inserted values into the table!
+09/10/2022 22:00:00: Automatically closed the connection!
+09/10/2022 22:05:00: Created the connection!
+09/10/2022 22:05:00: Inserted values into the table!
+09/10/2022 22:05:00: Automatically closed the connection!
+09/10/2022 22:10:01: Created the connection!
+09/10/2022 22:10:01: Inserted values into the table!
+09/10/2022 22:10:01: Automatically closed the connection!
+09/10/2022 22:15:01: Created the connection!
+09/10/2022 22:15:01: Inserted values into the table!
+09/10/2022 22:15:01: Automatically closed the connection!
+09/10/2022 22:20:01: Created the connection!
+09/10/2022 22:20:01: Inserted values into the table!
+09/10/2022 22:20:01: Automatically closed the connection!
+09/10/2022 22:25:01: Created the connection!
+09/10/2022 22:25:01: Inserted values into the table!
+09/10/2022 22:25:01: Automatically closed the connection!
+09/10/2022 22:30:00: Created the connection!
+09/10/2022 22:30:00: Inserted values into the table!
+09/10/2022 22:30:00: Automatically closed the connection!
+09/10/2022 22:35:00: Created the connection!
+09/10/2022 22:35:00: Inserted values into the table!
+09/10/2022 22:35:00: Automatically closed the connection!
+09/10/2022 22:40:00: Created the connection!
+09/10/2022 22:40:00: Inserted values into the table!
+09/10/2022 22:40:00: Automatically closed the connection!
+09/10/2022 22:45:00: Created the connection!
+09/10/2022 22:45:00: Inserted values into the table!
+09/10/2022 22:45:00: Automatically closed the connection!
+09/10/2022 22:50:01: Created the connection!
+09/10/2022 22:50:01: Inserted values into the table!
+09/10/2022 22:50:01: Automatically closed the connection!
+09/10/2022 22:55:00: Created the connection!
+09/10/2022 22:55:00: Inserted values into the table!
+09/10/2022 22:55:00: Automatically closed the connection!
+09/10/2022 23:00:01: Created the connection!
+09/10/2022 23:00:01: Inserted values into the table!
+09/10/2022 23:00:01: Automatically closed the connection!
+09/10/2022 23:05:00: Created the connection!
+09/10/2022 23:05:00: Inserted values into the table!
+09/10/2022 23:05:00: Automatically closed the connection!
+09/10/2022 23:10:00: Created the connection!
+09/10/2022 23:10:00: Inserted values into the table!
+09/10/2022 23:10:00: Automatically closed the connection!
+09/10/2022 23:15:00: Created the connection!
+09/10/2022 23:15:00: Inserted values into the table!
+09/10/2022 23:15:00: Automatically closed the connection!
+09/10/2022 23:20:01: Created the connection!
+09/10/2022 23:20:01: Inserted values into the table!
+09/10/2022 23:20:01: Automatically closed the connection!
+09/10/2022 23:25:01: Created the connection!
+09/10/2022 23:25:01: Inserted values into the table!
+09/10/2022 23:25:01: Automatically closed the connection!
+09/10/2022 23:30:01: Created the connection!
+09/10/2022 23:30:01: Inserted values into the table!
+09/10/2022 23:30:01: Automatically closed the connection!
+09/10/2022 23:35:00: Created the connection!
+09/10/2022 23:35:00: Inserted values into the table!
+09/10/2022 23:35:00: Automatically closed the connection!
+09/10/2022 23:40:00: Created the connection!
+09/10/2022 23:40:00: Inserted values into the table!
+09/10/2022 23:40:00: Automatically closed the connection!
+09/10/2022 23:45:00: Created the connection!
+09/10/2022 23:45:00: Inserted values into the table!
+09/10/2022 23:45:00: Automatically closed the connection!
+09/10/2022 23:50:00: Created the connection!
+09/10/2022 23:50:00: Inserted values into the table!
+09/10/2022 23:50:00: Automatically closed the connection!
+09/10/2022 23:55:02: Created the connection!
+09/10/2022 23:55:02: Inserted values into the table!
+09/10/2022 23:55:02: Automatically closed the connection!
+10/10/2022 00:00:00: Created the connection!
+10/10/2022 00:00:00: Inserted values into the table!
+10/10/2022 00:00:00: Automatically closed the connection!
+10/10/2022 00:05:01: Created the connection!
+10/10/2022 00:05:01: Inserted values into the table!
+10/10/2022 00:05:01: Automatically closed the connection!
+10/10/2022 00:10:01: Created the connection!
+10/10/2022 00:10:01: Inserted values into the table!
+10/10/2022 00:10:01: Automatically closed the connection!
+10/10/2022 00:18:23: Created the connection!
+10/10/2022 00:18:23: Inserted values into the table!
+10/10/2022 00:18:23: Automatically closed the connection!
+10/10/2022 00:20:01: Created the connection!
+10/10/2022 00:20:01: Inserted values into the table!
+10/10/2022 00:20:01: Automatically closed the connection!
+10/10/2022 00:25:01: Created the connection!
+10/10/2022 00:25:01: Inserted values into the table!
+10/10/2022 00:25:01: Automatically closed the connection!
+10/10/2022 00:30:01: Created the connection!
+10/10/2022 00:30:01: Inserted values into the table!
+10/10/2022 00:30:01: Automatically closed the connection!
+10/10/2022 00:35:00: Created the connection!
+10/10/2022 00:35:00: Inserted values into the table!
+10/10/2022 00:35:00: Automatically closed the connection!
+10/10/2022 00:40:00: Created the connection!
+10/10/2022 00:40:00: Inserted values into the table!
+10/10/2022 00:40:00: Automatically closed the connection!
+10/10/2022 00:45:04: Created the connection!
+10/10/2022 00:45:04: Inserted values into the table!
+10/10/2022 00:45:04: Automatically closed the connection!
+10/10/2022 00:50:01: Created the connection!
+10/10/2022 00:50:01: Inserted values into the table!
+10/10/2022 00:50:01: Automatically closed the connection!
+10/10/2022 00:55:01: Created the connection!
+10/10/2022 00:55:01: Inserted values into the table!
+10/10/2022 00:55:01: Automatically closed the connection!
+10/10/2022 01:00:01: Created the connection!
+10/10/2022 01:00:01: Inserted values into the table!
+10/10/2022 01:00:01: Automatically closed the connection!
+10/10/2022 01:05:00: Created the connection!
+10/10/2022 01:05:00: Inserted values into the table!
+10/10/2022 01:05:00: Automatically closed the connection!
+10/10/2022 08:27:41: Created the connection!
+10/10/2022 08:27:41: Inserted values into the table!
+10/10/2022 08:27:41: Automatically closed the connection!
+10/10/2022 08:30:01: Created the connection!
+10/10/2022 08:30:01: Inserted values into the table!
+10/10/2022 08:30:01: Automatically closed the connection!
+10/10/2022 08:35:01: Created the connection!
+10/10/2022 08:35:01: Inserted values into the table!
+10/10/2022 08:35:01: Automatically closed the connection!
+10/10/2022 08:40:00: Created the connection!
+10/10/2022 08:40:00: Inserted values into the table!
+10/10/2022 08:40:00: Automatically closed the connection!
+10/10/2022 08:45:01: Created the connection!
+10/10/2022 08:45:01: Inserted values into the table!
+10/10/2022 08:45:01: Automatically closed the connection!
+10/10/2022 09:05:01: Created the connection!
+10/10/2022 09:05:01: Inserted values into the table!
+10/10/2022 09:05:01: Automatically closed the connection!
+10/10/2022 09:10:00: Created the connection!
+10/10/2022 09:10:00: Inserted values into the table!
+10/10/2022 09:10:00: Automatically closed the connection!
+10/10/2022 09:15:01: Created the connection!
+10/10/2022 09:15:01: Inserted values into the table!
+10/10/2022 09:15:01: Automatically closed the connection!
+10/10/2022 09:20:01: Created the connection!
+10/10/2022 09:20:01: Inserted values into the table!
+10/10/2022 09:20:01: Automatically closed the connection!
+10/10/2022 09:25:01: Created the connection!
+10/10/2022 09:25:01: Inserted values into the table!
+10/10/2022 09:25:01: Automatically closed the connection!
+10/10/2022 09:30:01: Created the connection!
+10/10/2022 09:30:01: Inserted values into the table!
+10/10/2022 09:30:01: Automatically closed the connection!
+10/10/2022 09:35:01: Created the connection!
+10/10/2022 09:35:01: Inserted values into the table!
+10/10/2022 09:35:01: Automatically closed the connection!
+10/10/2022 09:40:00: Created the connection!
+10/10/2022 09:40:00: Inserted values into the table!
+10/10/2022 09:40:00: Automatically closed the connection!
+10/10/2022 09:45:00: Created the connection!
+10/10/2022 09:45:00: Inserted values into the table!
+10/10/2022 09:45:00: Automatically closed the connection!
+10/10/2022 09:50:00: Created the connection!
+10/10/2022 09:50:00: Inserted values into the table!
+10/10/2022 09:50:00: Automatically closed the connection!
+10/10/2022 09:55:01: Created the connection!
+10/10/2022 09:55:01: Inserted values into the table!
+10/10/2022 09:55:01: Automatically closed the connection!
+10/10/2022 10:00:01: Created the connection!
+10/10/2022 10:00:01: Inserted values into the table!
+10/10/2022 10:00:01: Automatically closed the connection!
+10/10/2022 10:08:07: Created the connection!
+10/10/2022 10:08:07: Inserted values into the table!
+10/10/2022 10:08:07: Automatically closed the connection!
+10/10/2022 10:10:01: Created the connection!
+10/10/2022 10:10:01: Inserted values into the table!
+10/10/2022 10:10:01: Automatically closed the connection!
+10/10/2022 10:15:01: Created the connection!
+10/10/2022 10:15:01: Inserted values into the table!
+10/10/2022 10:15:01: Automatically closed the connection!
+10/10/2022 10:20:00: Created the connection!
+10/10/2022 10:20:00: Inserted values into the table!
+10/10/2022 10:20:00: Automatically closed the connection!
+10/10/2022 10:25:00: Created the connection!
+10/10/2022 10:25:00: Inserted values into the table!
+10/10/2022 10:25:00: Automatically closed the connection!
+10/10/2022 10:30:01: Created the connection!
+10/10/2022 10:30:01: Inserted values into the table!
+10/10/2022 10:30:01: Automatically closed the connection!
+10/10/2022 10:35:01: Created the connection!
+10/10/2022 10:35:01: Inserted values into the table!
+10/10/2022 10:35:01: Automatically closed the connection!
+10/10/2022 10:40:01: Created the connection!
+10/10/2022 10:40:01: Inserted values into the table!
+10/10/2022 10:40:01: Automatically closed the connection!
+10/10/2022 10:45:16: Created the connection!
+10/10/2022 10:45:16: Inserted values into the table!
+10/10/2022 10:45:16: Automatically closed the connection!
+10/10/2022 13:10:00: Created the connection!
+10/10/2022 13:10:00: Inserted values into the table!
+10/10/2022 13:10:00: Automatically closed the connection!
+10/10/2022 13:15:00: Created the connection!
+10/10/2022 13:15:00: Inserted values into the table!
+10/10/2022 13:15:00: Automatically closed the connection!
+10/10/2022 13:20:00: Created the connection!
+10/10/2022 13:20:00: Inserted values into the table!
+10/10/2022 13:20:00: Automatically closed the connection!
+10/10/2022 13:25:00: Created the connection!
+10/10/2022 13:25:00: Inserted values into the table!
+10/10/2022 13:25:00: Automatically closed the connection!
+10/10/2022 13:30:01: Created the connection!
+10/10/2022 13:30:01: Inserted values into the table!
+10/10/2022 13:30:01: Automatically closed the connection!
+10/10/2022 13:35:01: Created the connection!
+10/10/2022 13:35:01: Inserted values into the table!
+10/10/2022 13:35:01: Automatically closed the connection!
+10/10/2022 13:40:01: Created the connection!
+10/10/2022 13:40:01: Inserted values into the table!
+10/10/2022 13:40:01: Automatically closed the connection!
+10/10/2022 15:28:04: Created the connection!
+10/10/2022 15:28:04: Inserted values into the table!
+10/10/2022 15:28:04: Automatically closed the connection!
+10/10/2022 15:30:03: Created the connection!
+10/10/2022 15:30:03: Inserted values into the table!
+10/10/2022 15:30:03: Automatically closed the connection!
+10/10/2022 15:35:00: Created the connection!
+10/10/2022 15:35:00: Inserted values into the table!
+10/10/2022 15:35:00: Automatically closed the connection!
+10/10/2022 15:40:01: Created the connection!
+10/10/2022 15:40:01: Inserted values into the table!
+10/10/2022 15:40:01: Automatically closed the connection!
+10/10/2022 15:45:01: Created the connection!
+10/10/2022 15:45:01: Inserted values into the table!
+10/10/2022 15:45:01: Automatically closed the connection!
+10/10/2022 15:50:00: Created the connection!
+10/10/2022 15:50:00: Inserted values into the table!
+10/10/2022 15:50:00: Automatically closed the connection!
+10/10/2022 15:55:00: Created the connection!
+10/10/2022 15:55:00: Inserted values into the table!
+10/10/2022 15:55:00: Automatically closed the connection!
+10/10/2022 16:00:01: Created the connection!
+10/10/2022 16:00:01: Inserted values into the table!
+10/10/2022 16:00:01: Automatically closed the connection!
+10/10/2022 16:05:00: Created the connection!
+10/10/2022 16:05:00: Inserted values into the table!
+10/10/2022 16:05:00: Automatically closed the connection!
+10/10/2022 16:10:00: Created the connection!
+10/10/2022 16:10:00: Inserted values into the table!
+10/10/2022 16:10:00: Automatically closed the connection!
+10/10/2022 16:15:01: Created the connection!
+10/10/2022 16:15:01: Inserted values into the table!
+10/10/2022 16:15:01: Automatically closed the connection!
+10/10/2022 16:20:02: Created the connection!
+10/10/2022 16:20:02: Inserted values into the table!
+10/10/2022 16:20:02: Automatically closed the connection!
+10/10/2022 16:25:00: Created the connection!
+10/10/2022 16:25:00: Inserted values into the table!
+10/10/2022 16:25:00: Automatically closed the connection!
+10/10/2022 16:30:00: Created the connection!
+10/10/2022 16:30:00: Inserted values into the table!
+10/10/2022 16:30:00: Automatically closed the connection!
+10/10/2022 17:56:24: Created the connection!
+10/10/2022 17:56:24: Inserted values into the table!
+10/10/2022 17:56:24: Automatically closed the connection!
+10/10/2022 18:00:14: Created the connection!
+10/10/2022 18:00:14: Inserted values into the table!
+10/10/2022 18:00:14: Automatically closed the connection!
+10/10/2022 18:25:01: Created the connection!
+10/10/2022 18:25:01: Inserted values into the table!
+10/10/2022 18:25:01: Automatically closed the connection!
+10/10/2022 18:30:00: Created the connection!
+10/10/2022 18:30:00: Inserted values into the table!
+10/10/2022 18:30:00: Automatically closed the connection!
+10/10/2022 18:35:00: Created the connection!
+10/10/2022 18:35:00: Inserted values into the table!
+10/10/2022 18:35:00: Automatically closed the connection!
+10/10/2022 18:40:03: Created the connection!
+10/10/2022 18:40:03: Inserted values into the table!
+10/10/2022 18:40:03: Automatically closed the connection!
+10/10/2022 18:45:01: Created the connection!
+10/10/2022 18:45:01: Inserted values into the table!
+10/10/2022 18:45:01: Automatically closed the connection!
+10/10/2022 18:50:01: Created the connection!
+10/10/2022 18:50:01: Inserted values into the table!
+10/10/2022 18:50:01: Automatically closed the connection!
+10/10/2022 18:55:00: Created the connection!
+10/10/2022 18:55:00: Inserted values into the table!
+10/10/2022 18:55:00: Automatically closed the connection!
+10/10/2022 19:00:03: Created the connection!
+10/10/2022 19:00:03: Inserted values into the table!
+10/10/2022 19:00:03: Automatically closed the connection!
+10/10/2022 19:05:01: Created the connection!
+10/10/2022 19:05:01: Inserted values into the table!
+10/10/2022 19:05:01: Automatically closed the connection!
+10/10/2022 19:10:00: Created the connection!
+10/10/2022 19:10:00: Inserted values into the table!
+10/10/2022 19:10:00: Automatically closed the connection!
+10/10/2022 19:15:00: Created the connection!
+10/10/2022 19:15:00: Inserted values into the table!
+10/10/2022 19:15:00: Automatically closed the connection!
+10/10/2022 19:20:01: Created the connection!
+10/10/2022 19:20:01: Inserted values into the table!
+10/10/2022 19:20:01: Automatically closed the connection!
+10/10/2022 19:25:01: Created the connection!
+10/10/2022 19:25:01: Inserted values into the table!
+10/10/2022 19:25:01: Automatically closed the connection!
+10/10/2022 19:30:01: Created the connection!
+10/10/2022 19:30:01: Inserted values into the table!
+10/10/2022 19:30:01: Automatically closed the connection!
+10/10/2022 19:35:01: Created the connection!
+10/10/2022 19:35:01: Inserted values into the table!
+10/10/2022 19:35:01: Automatically closed the connection!
+10/10/2022 19:40:00: Created the connection!
+10/10/2022 19:40:00: Inserted values into the table!
+10/10/2022 19:40:00: Automatically closed the connection!
+10/10/2022 19:45:00: Created the connection!
+10/10/2022 19:45:00: Inserted values into the table!
+10/10/2022 19:45:00: Automatically closed the connection!
+10/10/2022 19:50:01: Created the connection!
+10/10/2022 19:50:01: Inserted values into the table!
+10/10/2022 19:50:01: Automatically closed the connection!
+10/10/2022 19:55:01: Created the connection!
+10/10/2022 19:55:01: Inserted values into the table!
+10/10/2022 19:55:01: Automatically closed the connection!
+10/10/2022 20:00:01: Created the connection!
+10/10/2022 20:00:01: Inserted values into the table!
+10/10/2022 20:00:01: Automatically closed the connection!
+10/10/2022 20:05:00: Created the connection!
+10/10/2022 20:05:00: Inserted values into the table!
+10/10/2022 20:05:00: Automatically closed the connection!
+10/10/2022 20:35:01: Created the connection!
+10/10/2022 20:35:01: Inserted values into the table!
+10/10/2022 20:35:01: Automatically closed the connection!
+10/10/2022 20:40:01: Created the connection!
+10/10/2022 20:40:01: Inserted values into the table!
+10/10/2022 20:40:01: Automatically closed the connection!
+10/10/2022 20:45:01: Created the connection!
+10/10/2022 20:45:01: Inserted values into the table!
+10/10/2022 20:45:01: Automatically closed the connection!
+10/10/2022 20:50:02: Created the connection!
+10/10/2022 20:50:02: Inserted values into the table!
+10/10/2022 20:50:02: Automatically closed the connection!
+10/10/2022 20:55:03: Created the connection!
+10/10/2022 20:55:03: Inserted values into the table!
+10/10/2022 20:55:03: Automatically closed the connection!
+10/10/2022 21:00:01: Created the connection!
+10/10/2022 21:00:01: Inserted values into the table!
+10/10/2022 21:00:01: Automatically closed the connection!
+10/10/2022 21:05:01: Created the connection!
+10/10/2022 21:05:01: Inserted values into the table!
+10/10/2022 21:05:01: Automatically closed the connection!
+10/10/2022 21:10:00: Created the connection!
+10/10/2022 21:10:00: Inserted values into the table!
+10/10/2022 21:10:00: Automatically closed the connection!
+10/10/2022 21:15:01: Created the connection!
+10/10/2022 21:15:01: Inserted values into the table!
+10/10/2022 21:15:01: Automatically closed the connection!
+10/10/2022 21:20:00: Created the connection!
+10/10/2022 21:20:00: Inserted values into the table!
+10/10/2022 21:20:00: Automatically closed the connection!
+10/10/2022 21:25:00: Created the connection!
+10/10/2022 21:25:00: Inserted values into the table!
+10/10/2022 21:25:00: Automatically closed the connection!
+10/10/2022 21:30:01: Created the connection!
+10/10/2022 21:30:01: Inserted values into the table!
+10/10/2022 21:30:01: Automatically closed the connection!
+10/10/2022 21:35:01: Created the connection!
+10/10/2022 21:35:01: Inserted values into the table!
+10/10/2022 21:35:01: Automatically closed the connection!
+10/10/2022 21:40:01: Created the connection!
+10/10/2022 21:40:01: Inserted values into the table!
+10/10/2022 21:40:01: Automatically closed the connection!
+10/10/2022 21:45:00: Created the connection!
+10/10/2022 21:45:00: Inserted values into the table!
+10/10/2022 21:45:00: Automatically closed the connection!
+10/10/2022 21:50:00: Created the connection!
+10/10/2022 21:50:00: Inserted values into the table!
+10/10/2022 21:50:00: Automatically closed the connection!
+10/10/2022 21:55:01: Created the connection!
+10/10/2022 21:55:01: Inserted values into the table!
+10/10/2022 21:55:01: Automatically closed the connection!
+10/10/2022 22:00:00: Created the connection!
+10/10/2022 22:00:00: Inserted values into the table!
+10/10/2022 22:00:00: Automatically closed the connection!
+10/10/2022 22:05:00: Created the connection!
+10/10/2022 22:05:00: Inserted values into the table!
+10/10/2022 22:05:00: Automatically closed the connection!
+10/10/2022 22:10:01: Created the connection!
+10/10/2022 22:10:01: Inserted values into the table!
+10/10/2022 22:10:01: Automatically closed the connection!
+10/10/2022 22:15:01: Created the connection!
+10/10/2022 22:15:01: Inserted values into the table!
+10/10/2022 22:15:01: Automatically closed the connection!
+10/10/2022 22:20:01: Created the connection!
+10/10/2022 22:20:01: Inserted values into the table!
+10/10/2022 22:20:01: Automatically closed the connection!
+10/10/2022 22:25:01: Created the connection!
+10/10/2022 22:25:01: Inserted values into the table!
+10/10/2022 22:25:01: Automatically closed the connection!
+10/10/2022 22:30:01: Created the connection!
+10/10/2022 22:30:01: Inserted values into the table!
+10/10/2022 22:30:01: Automatically closed the connection!
+10/10/2022 22:35:01: Created the connection!
+10/10/2022 22:35:01: Inserted values into the table!
+10/10/2022 22:35:01: Automatically closed the connection!
+10/10/2022 22:40:01: Created the connection!
+10/10/2022 22:40:01: Inserted values into the table!
+10/10/2022 22:40:01: Automatically closed the connection!
+10/10/2022 22:45:01: Created the connection!
+10/10/2022 22:45:01: Inserted values into the table!
+10/10/2022 22:45:01: Automatically closed the connection!
+10/10/2022 22:50:00: Created the connection!
+10/10/2022 22:50:00: Inserted values into the table!
+10/10/2022 22:50:00: Automatically closed the connection!
+10/10/2022 22:55:00: Created the connection!
+10/10/2022 22:55:00: Inserted values into the table!
+10/10/2022 22:55:00: Automatically closed the connection!
+10/10/2022 23:00:01: Created the connection!
+10/10/2022 23:00:01: Inserted values into the table!
+10/10/2022 23:00:01: Automatically closed the connection!
+10/10/2022 23:05:01: Created the connection!
+10/10/2022 23:05:01: Inserted values into the table!
+10/10/2022 23:05:01: Automatically closed the connection!
+10/10/2022 23:10:00: Created the connection!
+10/10/2022 23:10:00: Inserted values into the table!
+10/10/2022 23:10:00: Automatically closed the connection!
+10/10/2022 23:15:02: Created the connection!
+10/10/2022 23:15:02: Inserted values into the table!
+10/10/2022 23:15:02: Automatically closed the connection!
+10/10/2022 23:20:01: Created the connection!
+10/10/2022 23:20:01: Inserted values into the table!
+10/10/2022 23:20:01: Automatically closed the connection!
+10/10/2022 23:25:01: Created the connection!
+10/10/2022 23:25:01: Inserted values into the table!
+10/10/2022 23:25:01: Automatically closed the connection!
+10/10/2022 23:30:01: Created the connection!
+10/10/2022 23:30:01: Inserted values into the table!
+10/10/2022 23:30:01: Automatically closed the connection!
+10/10/2022 23:35:01: Created the connection!
+10/10/2022 23:35:01: Inserted values into the table!
+10/10/2022 23:35:01: Automatically closed the connection!
+10/10/2022 23:40:01: Created the connection!
+10/10/2022 23:40:01: Inserted values into the table!
+10/10/2022 23:40:01: Automatically closed the connection!
+10/10/2022 23:45:00: Created the connection!
+10/10/2022 23:45:00: Inserted values into the table!
+10/10/2022 23:45:00: Automatically closed the connection!
+10/10/2022 23:50:01: Created the connection!
+10/10/2022 23:50:01: Inserted values into the table!
+10/10/2022 23:50:01: Automatically closed the connection!
+10/10/2022 23:55:01: Created the connection!
+10/10/2022 23:55:01: Inserted values into the table!
+10/10/2022 23:55:01: Automatically closed the connection!
+11/10/2022 00:00:03: Created the connection!
+11/10/2022 00:00:03: Inserted values into the table!
+11/10/2022 00:00:03: Automatically closed the connection!
+11/10/2022 00:05:01: Created the connection!
+11/10/2022 00:05:01: Inserted values into the table!
+11/10/2022 00:05:01: Automatically closed the connection!
+11/10/2022 00:10:00: Created the connection!
+11/10/2022 00:10:00: Inserted values into the table!
+11/10/2022 00:10:00: Automatically closed the connection!
+11/10/2022 00:15:01: Created the connection!
+11/10/2022 00:15:01: Inserted values into the table!
+11/10/2022 00:15:01: Automatically closed the connection!
+11/10/2022 00:20:01: Created the connection!
+11/10/2022 00:20:01: Inserted values into the table!
+11/10/2022 00:20:01: Automatically closed the connection!
+11/10/2022 00:25:01: Created the connection!
+11/10/2022 00:25:01: Inserted values into the table!
+11/10/2022 00:25:01: Automatically closed the connection!
+11/10/2022 00:30:01: Created the connection!
+11/10/2022 00:30:01: Inserted values into the table!
+11/10/2022 00:30:01: Automatically closed the connection!
+11/10/2022 00:35:01: Created the connection!
+11/10/2022 00:35:01: Inserted values into the table!
+11/10/2022 00:35:01: Automatically closed the connection!
+11/10/2022 00:40:01: Created the connection!
+11/10/2022 00:40:01: Inserted values into the table!
+11/10/2022 00:40:01: Automatically closed the connection!
+11/10/2022 00:45:00: Created the connection!
+11/10/2022 00:45:00: Inserted values into the table!
+11/10/2022 00:45:00: Automatically closed the connection!
+11/10/2022 00:50:00: Created the connection!
+11/10/2022 00:50:00: Inserted values into the table!
+11/10/2022 00:50:00: Automatically closed the connection!
+11/10/2022 00:55:00: Created the connection!
+11/10/2022 00:55:00: Inserted values into the table!
+11/10/2022 00:55:00: Automatically closed the connection!
+11/10/2022 01:00:02: Created the connection!
+11/10/2022 01:00:02: Inserted values into the table!
+11/10/2022 01:00:02: Automatically closed the connection!
+11/10/2022 01:05:01: Created the connection!
+11/10/2022 01:05:01: Inserted values into the table!
+11/10/2022 01:05:01: Automatically closed the connection!
+11/10/2022 01:10:00: Created the connection!
+11/10/2022 01:10:00: Inserted values into the table!
+11/10/2022 01:10:00: Automatically closed the connection!
+11/10/2022 08:05:00: Created the connection!
+11/10/2022 08:05:00: Inserted values into the table!
+11/10/2022 08:05:00: Automatically closed the connection!
+11/10/2022 08:10:00: Created the connection!
+11/10/2022 08:10:00: Inserted values into the table!
+11/10/2022 08:10:00: Automatically closed the connection!
+11/10/2022 08:15:00: Created the connection!
+11/10/2022 08:15:00: Inserted values into the table!
+11/10/2022 08:15:00: Automatically closed the connection!
+11/10/2022 08:20:01: Created the connection!
+11/10/2022 08:20:01: Inserted values into the table!
+11/10/2022 08:20:01: Automatically closed the connection!
+11/10/2022 08:25:01: Created the connection!
+11/10/2022 08:25:01: Inserted values into the table!
+11/10/2022 08:25:01: Automatically closed the connection!
+11/10/2022 08:30:01: Created the connection!
+11/10/2022 08:30:01: Inserted values into the table!
+11/10/2022 08:30:01: Automatically closed the connection!
+11/10/2022 08:35:01: Created the connection!
+11/10/2022 08:35:01: Inserted values into the table!
+11/10/2022 08:35:01: Automatically closed the connection!
+11/10/2022 08:40:01: Created the connection!
+11/10/2022 08:40:01: Inserted values into the table!
+11/10/2022 08:40:01: Automatically closed the connection!
+11/10/2022 08:45:01: Created the connection!
+11/10/2022 08:45:01: Inserted values into the table!
+11/10/2022 08:45:01: Automatically closed the connection!
+11/10/2022 08:50:01: Created the connection!
+11/10/2022 08:50:01: Inserted values into the table!
+11/10/2022 08:50:01: Automatically closed the connection!
+11/10/2022 08:55:01: Created the connection!
+11/10/2022 08:55:01: Inserted values into the table!
+11/10/2022 08:55:01: Automatically closed the connection!
+11/10/2022 09:00:01: Created the connection!
+11/10/2022 09:00:01: Inserted values into the table!
+11/10/2022 09:00:01: Automatically closed the connection!
+11/10/2022 09:05:01: Created the connection!
+11/10/2022 09:05:01: Inserted values into the table!
+11/10/2022 09:05:01: Automatically closed the connection!
+11/10/2022 09:10:01: Created the connection!
+11/10/2022 09:10:01: Inserted values into the table!
+11/10/2022 09:10:01: Automatically closed the connection!
+11/10/2022 09:15:00: Created the connection!
+11/10/2022 09:15:00: Inserted values into the table!
+11/10/2022 09:15:00: Automatically closed the connection!
+11/10/2022 09:20:00: Created the connection!
+11/10/2022 09:20:00: Inserted values into the table!
+11/10/2022 09:20:00: Automatically closed the connection!
+11/10/2022 09:25:00: Created the connection!
+11/10/2022 09:25:00: Inserted values into the table!
+11/10/2022 09:25:00: Automatically closed the connection!
+11/10/2022 09:30:00: Created the connection!
+11/10/2022 09:30:00: Inserted values into the table!
+11/10/2022 09:30:00: Automatically closed the connection!
+11/10/2022 09:35:00: Created the connection!
+11/10/2022 09:35:00: Inserted values into the table!
+11/10/2022 09:35:00: Automatically closed the connection!
+11/10/2022 09:40:00: Created the connection!
+11/10/2022 09:40:00: Inserted values into the table!
+11/10/2022 09:40:00: Automatically closed the connection!
+11/10/2022 09:45:00: Created the connection!
+11/10/2022 09:45:00: Inserted values into the table!
+11/10/2022 09:45:00: Automatically closed the connection!
+11/10/2022 09:50:01: Created the connection!
+11/10/2022 09:50:01: Inserted values into the table!
+11/10/2022 09:50:01: Automatically closed the connection!
+11/10/2022 09:55:01: Created the connection!
+11/10/2022 09:55:01: Inserted values into the table!
+11/10/2022 09:55:01: Automatically closed the connection!
+11/10/2022 11:30:01: Created the connection!
+11/10/2022 11:30:01: Inserted values into the table!
+11/10/2022 11:30:01: Automatically closed the connection!
+11/10/2022 11:35:01: Created the connection!
+11/10/2022 11:35:01: Inserted values into the table!
+11/10/2022 11:35:01: Automatically closed the connection!
+11/10/2022 11:40:01: Created the connection!
+11/10/2022 11:40:01: Inserted values into the table!
+11/10/2022 11:40:01: Automatically closed the connection!
+11/10/2022 11:45:00: Created the connection!
+11/10/2022 11:45:00: Inserted values into the table!
+11/10/2022 11:45:00: Automatically closed the connection!
+11/10/2022 11:50:01: Created the connection!
+11/10/2022 11:50:01: Inserted values into the table!
+11/10/2022 11:50:01: Automatically closed the connection!
+11/10/2022 11:55:01: Created the connection!
+11/10/2022 11:55:01: Inserted values into the table!
+11/10/2022 11:55:01: Automatically closed the connection!
+11/10/2022 12:00:01: Created the connection!
+11/10/2022 12:00:01: Inserted values into the table!
+11/10/2022 12:00:01: Automatically closed the connection!
+11/10/2022 12:05:01: Created the connection!
+11/10/2022 12:05:01: Inserted values into the table!
+11/10/2022 12:05:01: Automatically closed the connection!
+11/10/2022 12:10:01: Created the connection!
+11/10/2022 12:10:01: Inserted values into the table!
+11/10/2022 12:10:01: Automatically closed the connection!
+11/10/2022 12:15:00: Created the connection!
+11/10/2022 12:15:00: Inserted values into the table!
+11/10/2022 12:15:00: Automatically closed the connection!
+11/10/2022 12:20:01: Created the connection!
+11/10/2022 12:20:01: Inserted values into the table!
+11/10/2022 12:20:01: Automatically closed the connection!
+11/10/2022 12:25:03: Created the connection!
+11/10/2022 12:25:03: Inserted values into the table!
+11/10/2022 12:25:03: Automatically closed the connection!
+11/10/2022 12:30:00: Created the connection!
+11/10/2022 12:30:00: Inserted values into the table!
+11/10/2022 12:30:00: Automatically closed the connection!
+11/10/2022 12:35:01: Created the connection!
+11/10/2022 12:35:01: Inserted values into the table!
+11/10/2022 12:35:01: Automatically closed the connection!
+11/10/2022 12:40:01: Created the connection!
+11/10/2022 12:40:01: Inserted values into the table!
+11/10/2022 12:40:01: Automatically closed the connection!
+11/10/2022 12:45:00: Created the connection!
+11/10/2022 12:45:00: Inserted values into the table!
+11/10/2022 12:45:00: Automatically closed the connection!
+11/10/2022 12:50:01: Created the connection!
+11/10/2022 12:50:01: Inserted values into the table!
+11/10/2022 12:50:01: Automatically closed the connection!
+11/10/2022 12:55:00: Created the connection!
+11/10/2022 12:55:00: Inserted values into the table!
+11/10/2022 12:55:00: Automatically closed the connection!
+11/10/2022 13:00:02: Created the connection!
+11/10/2022 13:00:02: Inserted values into the table!
+11/10/2022 13:00:02: Automatically closed the connection!
+11/10/2022 13:05:01: Created the connection!
+11/10/2022 13:05:01: Inserted values into the table!
+11/10/2022 13:05:01: Automatically closed the connection!
+11/10/2022 13:10:01: Created the connection!
+11/10/2022 13:10:01: Inserted values into the table!
+11/10/2022 13:10:01: Automatically closed the connection!
+11/10/2022 13:15:01: Created the connection!
+11/10/2022 13:15:01: Inserted values into the table!
+11/10/2022 13:15:01: Automatically closed the connection!
+11/10/2022 13:20:01: Created the connection!
+11/10/2022 13:20:01: Inserted values into the table!
+11/10/2022 13:20:01: Automatically closed the connection!
+11/10/2022 13:25:00: Created the connection!
+11/10/2022 13:25:00: Inserted values into the table!
+11/10/2022 13:25:00: Automatically closed the connection!
+11/10/2022 14:20:01: Created the connection!
+11/10/2022 14:20:01: Inserted values into the table!
+11/10/2022 14:20:01: Automatically closed the connection!
+11/10/2022 14:25:01: Created the connection!
+11/10/2022 14:25:01: Inserted values into the table!
+11/10/2022 14:25:01: Automatically closed the connection!
+11/10/2022 14:30:01: Created the connection!
+11/10/2022 14:30:01: Inserted values into the table!
+11/10/2022 14:30:01: Automatically closed the connection!
+11/10/2022 15:00:00: Created the connection!
+11/10/2022 15:00:00: Inserted values into the table!
+11/10/2022 15:00:00: Automatically closed the connection!
+11/10/2022 15:05:00: Created the connection!
+11/10/2022 15:05:00: Inserted values into the table!
+11/10/2022 15:05:00: Automatically closed the connection!
+11/10/2022 15:10:00: Created the connection!
+11/10/2022 15:10:00: Inserted values into the table!
+11/10/2022 15:10:00: Automatically closed the connection!
+11/10/2022 15:15:01: Created the connection!
+11/10/2022 15:15:01: Inserted values into the table!
+11/10/2022 15:15:01: Automatically closed the connection!
+11/10/2022 15:20:01: Created the connection!
+11/10/2022 15:20:01: Inserted values into the table!
+11/10/2022 15:20:01: Automatically closed the connection!
+11/10/2022 15:25:01: Created the connection!
+11/10/2022 15:25:01: Inserted values into the table!
+11/10/2022 15:25:01: Automatically closed the connection!
+11/10/2022 15:30:00: Created the connection!
+11/10/2022 15:30:00: Inserted values into the table!
+11/10/2022 15:30:00: Automatically closed the connection!
+11/10/2022 15:35:00: Created the connection!
+11/10/2022 15:35:00: Inserted values into the table!
+11/10/2022 15:35:00: Automatically closed the connection!
+11/10/2022 15:40:00: Created the connection!
+11/10/2022 15:40:00: Inserted values into the table!
+11/10/2022 15:40:00: Automatically closed the connection!
+11/10/2022 15:45:01: Created the connection!
+11/10/2022 15:45:01: Inserted values into the table!
+11/10/2022 15:45:01: Automatically closed the connection!
+11/10/2022 16:25:01: Created the connection!
+11/10/2022 16:25:01: Inserted values into the table!
+11/10/2022 16:25:01: Automatically closed the connection!
+11/10/2022 16:30:01: Created the connection!
+11/10/2022 16:30:01: Inserted values into the table!
+11/10/2022 16:30:01: Automatically closed the connection!
+11/10/2022 16:35:14: Created the connection!
+11/10/2022 16:35:14: Inserted values into the table!
+11/10/2022 16:35:14: Automatically closed the connection!
+11/10/2022 16:40:01: Created the connection!
+11/10/2022 16:40:01: Inserted values into the table!
+11/10/2022 16:40:01: Automatically closed the connection!
+11/10/2022 16:45:01: Created the connection!
+11/10/2022 16:45:01: Inserted values into the table!
+11/10/2022 16:45:01: Automatically closed the connection!
+11/10/2022 16:50:01: Created the connection!
+11/10/2022 16:50:01: Inserted values into the table!
+11/10/2022 16:50:01: Automatically closed the connection!
+11/10/2022 16:58:02: Created the connection!
+11/10/2022 16:58:02: Inserted values into the table!
+11/10/2022 16:58:02: Automatically closed the connection!
+11/10/2022 17:00:00: Created the connection!
+11/10/2022 17:00:00: Inserted values into the table!
+11/10/2022 17:00:00: Automatically closed the connection!
+11/10/2022 17:05:00: Created the connection!
+11/10/2022 17:05:00: Inserted values into the table!
+11/10/2022 17:05:00: Automatically closed the connection!
+11/10/2022 17:10:00: Created the connection!
+11/10/2022 17:10:00: Inserted values into the table!
+11/10/2022 17:10:00: Automatically closed the connection!
+11/10/2022 18:40:01: Created the connection!
+11/10/2022 18:40:01: Inserted values into the table!
+11/10/2022 18:40:01: Automatically closed the connection!
+11/10/2022 18:45:02: Created the connection!
+11/10/2022 18:45:02: Inserted values into the table!
+11/10/2022 18:45:02: Automatically closed the connection!
+11/10/2022 18:50:01: Created the connection!
+11/10/2022 18:50:01: Inserted values into the table!
+11/10/2022 18:50:01: Automatically closed the connection!
+11/10/2022 18:55:01: Created the connection!
+11/10/2022 18:55:01: Inserted values into the table!
+11/10/2022 18:55:01: Automatically closed the connection!
+11/10/2022 19:00:01: Created the connection!
+11/10/2022 19:00:01: Inserted values into the table!
+11/10/2022 19:00:01: Automatically closed the connection!
+11/10/2022 19:05:01: Created the connection!
+11/10/2022 19:05:01: Inserted values into the table!
+11/10/2022 19:05:01: Automatically closed the connection!
+11/10/2022 19:10:01: Created the connection!
+11/10/2022 19:10:01: Inserted values into the table!
+11/10/2022 19:10:01: Automatically closed the connection!
+11/10/2022 19:15:01: Created the connection!
+11/10/2022 19:15:01: Inserted values into the table!
+11/10/2022 19:15:01: Automatically closed the connection!
+11/10/2022 19:20:01: Created the connection!
+11/10/2022 19:20:01: Inserted values into the table!
+11/10/2022 19:20:01: Automatically closed the connection!
+11/10/2022 19:25:01: Created the connection!
+11/10/2022 19:25:01: Inserted values into the table!
+11/10/2022 19:25:01: Automatically closed the connection!
+11/10/2022 19:30:01: Created the connection!
+11/10/2022 19:30:01: Inserted values into the table!
+11/10/2022 19:30:01: Automatically closed the connection!
+11/10/2022 19:35:00: Created the connection!
+11/10/2022 19:35:00: Inserted values into the table!
+11/10/2022 19:35:00: Automatically closed the connection!
+11/10/2022 19:40:00: Created the connection!
+11/10/2022 19:40:00: Inserted values into the table!
+11/10/2022 19:40:00: Automatically closed the connection!
+11/10/2022 20:10:00: Created the connection!
+11/10/2022 20:10:00: Inserted values into the table!
+11/10/2022 20:10:00: Automatically closed the connection!
+11/10/2022 20:15:01: Created the connection!
+11/10/2022 20:15:01: Inserted values into the table!
+11/10/2022 20:15:01: Automatically closed the connection!
+11/10/2022 20:20:01: Created the connection!
+11/10/2022 20:20:01: Inserted values into the table!
+11/10/2022 20:20:01: Automatically closed the connection!
+11/10/2022 20:25:01: Created the connection!
+11/10/2022 20:25:01: Inserted values into the table!
+11/10/2022 20:25:01: Automatically closed the connection!
+11/10/2022 20:30:01: Created the connection!
+11/10/2022 20:30:01: Inserted values into the table!
+11/10/2022 20:30:01: Automatically closed the connection!
