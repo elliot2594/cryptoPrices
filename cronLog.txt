@@ -863,3 +863,27 @@ Automatically closed the connection!
 11/10/2022 20:30:01: Created the connection!
 11/10/2022 20:30:01: Inserted values into the table!
 11/10/2022 20:30:01: Automatically closed the connection!
+11/10/2022 20:35:01: Created the connection!
+11/10/2022 20:35:01: Inserted values into the table!
+11/10/2022 20:35:01: Automatically closed the connection!
+11/10/2022 20:40:01: Created the connection!
+11/10/2022 20:40:01: Inserted values into the table!
+11/10/2022 20:40:01: Automatically closed the connection!
+11/10/2022 20:45:00: Created the connection!
+11/10/2022 20:45:00: Inserted values into the table!
+11/10/2022 20:45:00: Automatically closed the connection!
+11/10/2022 20:50:00: Created the connection!
+11/10/2022 20:50:00: Inserted values into the table!
+11/10/2022 20:50:00: Automatically closed the connection!
+11/10/2022 20:55:00: Created the connection!
+11/10/2022 20:55:00: Inserted values into the table!
+11/10/2022 20:55:00: Automatically closed the connection!
+11/10/2022 21:00:03: Created the connection!
+11/10/2022 21:00:03: Inserted values into the table!
+11/10/2022 21:00:03: Automatically closed the connection!
+11/10/2022 21:05:01: Created the connection!
+11/10/2022 21:05:01: Inserted values into the table!
+11/10/2022 21:05:01: Automatically closed the connection!
+11/10/2022 21:10:01: Created the connection!
+11/10/2022 21:10:01: Inserted values into the table!
+11/10/2022 21:10:01: Automatically closed the connection!
